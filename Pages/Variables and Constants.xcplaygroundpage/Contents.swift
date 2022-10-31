@@ -45,7 +45,6 @@ print(lowerScore)
 
 print(halveScore)
 
-
 var counter = 10
 counter -= 5
 print(counter)
@@ -62,8 +61,3 @@ print(150.isMultiple(of: 3))
 let number = 0.1 + 0.2
 print(number)
 
-
-
-var names = ["Leonard", "Kim", "Sammy", "Timmy"]
-names[0]
-names[1]
